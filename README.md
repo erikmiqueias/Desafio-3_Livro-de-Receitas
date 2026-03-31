@@ -260,16 +260,8 @@ npm run build
 
 ---
 
-### 6. Deploy
+## 6. Envie sua solução
 
-Publique a aplicação (ex: Vercel, Netlify)
+Abra um **Pull Request do seu fork para este repositório**, contendo screenshots do layout em **desktop e mobile**
 
----
-
-### 7. Envio
-
-Abra um **Pull Request** contendo:
-
-* link do repositório
-* link do deploy
-* screenshots (desktop e mobile)
+Após o envio, sua solução será revisada. Feedback poderá ser fornecido antes da aprovação.
