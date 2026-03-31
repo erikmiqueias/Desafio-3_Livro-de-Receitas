@@ -265,3 +265,8 @@ npm run build
 Abra um **Pull Request do seu fork para este repositório**, contendo screenshots do layout em **desktop e mobile**
 
 Após o envio, sua solução será revisada. Feedback poderá ser fornecido antes da aprovação.
+
+## 7. Solução de Referência
+Esse site demonstra um modelo de solução, que implementa todos os requisitos obrigatórios e opcionais do desafio:
+
+https://desafio-3-solution.vercel.app/
