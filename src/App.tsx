@@ -5,7 +5,7 @@ function App() {
         Desafio 3: Livro de Receitas
       </h1>
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
