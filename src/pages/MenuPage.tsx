@@ -28,11 +28,11 @@ export const MenuPage = () => {
     <>
       <div className="mx-auto mt-10 flex w-full flex-col items-center">
         <CardHeader className="w-full flex-col items-center">
-          <CardTitle className="mb-6 text-2xl font-semibold text-slate-900">
+          <CardTitle className="mb-6 text-center text-2xl leading-normal font-semibold wrap-break-word text-slate-900">
             Categorias e pratos
           </CardTitle>
 
-          <div className="flex w-full gap-3">
+          <div className="flex w-full flex-col gap-3 sm:flex-row">
             <Input
               className="w-full rounded-lg border border-slate-200 px-4 py-6 text-slate-900 transition outline-none placeholder:text-slate-400 focus:border-slate-400"
               placeholder="Buscar refeição (ex: Arrabiata)"
